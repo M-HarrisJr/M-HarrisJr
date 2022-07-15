@@ -1,5 +1,8 @@
 <h1 align="center">👋 Welcome to my page!</h1>
-<h3 align="center">My name is Michael, I am a computer programmer living in Atlanta, GA.</h3>
+<h3 align="center">My name is Michael Harris, I am a computer programmer living in Atlanta, GA.</h3>
+
+![Midtown_atlanta](https://user-images.githubusercontent.com/109362653/179271618-caf3165c-3e5e-43eb-82be-a6113240e78b.jpg)
+
 
 <p align="center">
   <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/> I am proficient in all of the following languages <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/>
@@ -21,12 +24,45 @@
   <img alt="C#" src="https://img.shields.io/badge/-C SHARP-CC6699?style=flat-Color=white" />
 </p>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by email at: MHARRISJR01@GMAIL.COM
+<h2 align="center">
+  Education
+</h2>
 
-<!---
-M-HarrisJr/M-HarrisJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  I am curently studying at Gwinnett Technical College, pursuing a Computer Programming & Cybersecurity Associate's Degree.
+</p>
+
+<ul align="center">
+  <li<b>🎓 Computer Programming, A.A.S. 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li>
+  <li<b>🎓 Cybersecurity, A.A.S. 🎓</b></a><br/><i>Gwinnett Technical College, 2024</i></li>
+</ul>
+
+<h2 align="center">
+  Certifications
+</h2>
+
+<ul align="center">
+  <li<b>🎓 Certified Java Programmer 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/>
+  <li<b>🏆 Certified ServiceNow System Administrator 🏆</b></a><br/>
+  <li<b>🏆 Certified Scrum Foundation Professional 🏆</b></a><br/>
+  <li<b>🏆 CompTIA A+ Certified 🏆</b></a>
+</ul>
+
+<h3 align="center">
+  More About Me
+</h3>
+
+<ul>
+  <li>👀 I am currently pursuing work in the following fields:
+    <ul>
+      <li>Computer Programming</li>
+      <li>Project Management</li>
+      <li>System Administration</li>
+      <li>Technical Support</li>
+      <li>Software Engineering</li>
+    </ul>
+  </li>
+</ul>
+
+- 🌱 I’m currently learning more about project management & cybersecurity.
+- 📫 You can reach me by email at: MHARRISJR01@GMAIL.COM
