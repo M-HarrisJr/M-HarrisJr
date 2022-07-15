@@ -1,5 +1,4 @@
 <h1 align="center">👋 Welcome to my page!</h1>
-<br/>
 <h3 align="center">My name is Michael Harris, I am a computer programmer living in Atlanta, GA.</h3><br/>
 
 <p align="center">
