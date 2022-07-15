@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome to my page!</h1>
-<h3 align="center">My name is Michael Harris, I am a computer programmer living in Atlanta, GA.</h3>
+<h3 align="center">My name is Michael Harris, I am a computer programmer living in Atlanta, GA.</h3><br/>
 
 <p align="center">
   <img src="https://media.cntraveler.com/photos/57471fe678a2718d4665d5e6/16:9/w_2560%2Cc_limit/atlanta-georgia-skyline-cr-getty.jpg"/>
