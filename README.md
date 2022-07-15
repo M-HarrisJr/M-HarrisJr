@@ -34,7 +34,7 @@
 </p>
 
 <ul align="center">
-  <li<b>🎓 Computer Programming, A.A.S. 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li>
+  <li<b>🎓 Computer Programming, A.A.S. 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/><br/>
   <li<b>🎓 Cybersecurity, A.A.S. 🎓</b></a><br/><i>Gwinnett Technical College, 2024</i></li>
 </ul>
 
@@ -43,15 +43,15 @@
 </h2>
 
 <ul align="center">
-  <li<b>🎓 Certified Java Programmer 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/>
-  <li<b>🏆 Certified ServiceNow System Administrator 🏆</b></a><br/>
-  <li<b>🏆 Certified Scrum Foundation Professional 🏆</b></a><br/>
+  <li<b>🎓 Certified Java Programmer 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/><br/>
+  <li<b>🏆 Certified ServiceNow System Administrator 🏆</b></a><br/><br/>
+  <li<b>🏆 Certified Scrum Foundation Professional 🏆</b></a><br/><br/>
   <li<b>🏆 CompTIA A+ Certified 🏆</b></a>
 </ul>
 
-<h3 align="center">
+<h2 align="center">
   More About Me
-</h3>
+</h2>
 
 <ul>
   <li>👀 I am currently pursuing work in the following fields:
