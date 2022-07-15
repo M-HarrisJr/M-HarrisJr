@@ -2,7 +2,7 @@
 <h3 align="center">My name is Michael, I am a computer programmer living in Atlanta, GA.</h3>
 
 <p align="center">
-  I am proficient in all of the following languages:
+  <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/> I am proficient in all of the following languages <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/>
 </p>
 
 <p align="center">
