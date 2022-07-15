@@ -1,12 +1,13 @@
 <h1 align="center">👋 Welcome to my page!</h1>
 <h3 align="center">My name is Michael Harris, I am a computer programmer living in Atlanta, GA.</h3>
 
-![Midtown_atlanta](https://user-images.githubusercontent.com/109362653/179271618-caf3165c-3e5e-43eb-82be-a6113240e78b.jpg)
-
-
 <p align="center">
-  <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/> I am proficient in all of the following languages <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/>
+  <img src="https://media.cntraveler.com/photos/57471fe678a2718d4665d5e6/16:9/w_2560%2Cc_limit/atlanta-georgia-skyline-cr-getty.jpg"/>
 </p>
+
+<h3 align="center">
+  <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/> I am proficient in all of the following languages <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/>
+</h3>
 
 <p align="center">
   <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-8DD6F9?style=flat-Color=white" />
