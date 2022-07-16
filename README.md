@@ -64,9 +64,11 @@
     </ul>
   </li>
 </ul>
-
-- 🌱 I’m currently learning more about project management & cybersecurity.
-- 📫 You can reach me by email at: MHARRISJR01@GMAIL.COM
+<ul>
+  <li>🌱 I’m currently learning more about project management & cybersecurity.
+  <li>📫 You can reach me by email at: MHARRISJR01@GMAIL.COM
+  <li><a href="https://www.linkedin.com/in/michael-harris-a8a6981b7/"><b>📘 My LinkedIn Page</b></a></li>
+</ul>
 
 <h2 align="center">
   My Current Repository Coding Practice Showcases
