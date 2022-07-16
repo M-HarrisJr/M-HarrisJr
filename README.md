@@ -67,3 +67,10 @@
 
 - 🌱 I’m currently learning more about project management & cybersecurity.
 - 📫 You can reach me by email at: MHARRISJR01@GMAIL.COM
+
+<h2 align="center">
+  My Current Repository Coding Practice Showcases
+</h2>
+<ul>
+  <li><a href="https://github.com/M-HarrisJr/C-Plus-Plus-File/blob/main/Vending%20Machine%20Code"><b>My C++ Coding Repository</b></a><br/><i>This file is a showcase of a few basic C++ codes. More information is available on the read me page.</i></li>
+</ul>
