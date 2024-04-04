@@ -35,7 +35,7 @@
 
 <ul align="center">
   <li<b>🎓 Computer Programming, A.A.S. 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/><br/>
-  <li<b>🎓 Cybersecurity, A.A.S. 🎓</b></a><br/><i>Gwinnett Technical College, 2024</i></li>
+  <li<b>🎓 Cybersecurity, B.S. 🎓</b></a><br/><i>Wilmington University, 2024</i></li>
 </ul>
 
 <h2 align="center">
