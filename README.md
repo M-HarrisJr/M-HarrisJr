@@ -1,12 +1,12 @@
-<h1 align="center">Welcome to my page!</h1>
-<h3 align="center">My name is Michael Harris, I am a computer programmer living in Atlanta, GA.</h3><br/>
+<h1 align="center">Michael Harris</h1>
+<h3 align="center">Cloud Engineer - Software Engineer - Atlanta, GA</h3><br/>
 
 <p align="center">
   <img src="https://media.cntraveler.com/photos/57471fe678a2718d4665d5e6/16:9/w_2560%2Cc_limit/atlanta-georgia-skyline-cr-getty.jpg"/>
 </p>
 
 <h3 align="center">
-  <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/> I am proficient in all of the following languages <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/>
+  <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/>Proficient in all of the following<img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/>
 </h3>
 
 <p align="center">
@@ -29,13 +29,9 @@
   Education
 </h2>
 
-<p align="center">
-  I am curently studying at Gwinnett Technical College, pursuing a Computer Programming & Cybersecurity Associate's Degree.
-</p>
-
 <ul align="center">
   <li<b>🎓 Computer Programming, A.A.S. 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/><br/>
-  <li<b>🎓 Cybersecurity, B.S. 🎓</b></a><br/><i>Wilmington University, 2024</i></li>
+  <li<b>🎓 Cybersecurity, B.S. 🎓</b></a><br/><i>Wilmington University, 2026</i></li>
 </ul>
 
 <h2 align="center">
@@ -44,29 +40,29 @@
 
 <ul align="center">
   <li<b>🎓 Certified Java Programmer 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/><br/>
-  <li<b>🏆 Certified ServiceNow System Administrator 🏆</b></a><br/><br/>
-  <li<b>🏆 Certified Scrum Foundation Professional 🏆</b></a><br/><br/>
-  <li<b>🏆 CompTIA A+ Certified 🏆</b></a>
+  <li<b>🏆 Oracle Cloud Infrastructure - Multicloud Architect Professional Certification - 2025 🏆</b></a><br/><br/>
+  <li<b>🏆 Oracle Cloud Infrastructure - Developer Professional Certification 🏆</b></a><br/><br/>
+  <li<b>🏆 ISC2 Cybersecurity Certification 🏆</b></a>
 </ul>
 
 <h2 align="center">
-  More About Me
+  About me
 </h2>
 
 <ul>
-  <li>👀 I am currently pursuing work in the following fields:
+  <li> Currently Pursuing:
     <ul>
-      <li>Computer Programming</li>
-      <li>Project Management</li>
-      <li>System Administration</li>
-      <li>Technical Support</li>
-      <li>Software Engineering</li>
+      <li>AWS SAAS Certification</li>
+      <li>AWS Developer</li>
+      <li>AWS DevOps</li>
+      <li>Cybersecurity B.A.</li>
+      <li>ISC2 CISSP</li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>🌱 I’m currently learning more about project management & cybersecurity.
-  <li>📫 You can reach me by email at: MHARRISJR01@GMAIL.COM
+  <li>I'm currently building cloud based projects and pursuing cloud engineering roles.
+  <li>📫 Email: MHARRISJR01@GMAIL.COM
   <li><a href="https://www.linkedin.com/in/michael-harris-a8a6981b7/"><b>📘 My LinkedIn Page</b></a></li>
 </ul>
 
