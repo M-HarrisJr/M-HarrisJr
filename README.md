@@ -25,18 +25,14 @@
   <img alt="C#" src="https://img.shields.io/badge/-C SHARP-CC6699?style=flat-Color=white" />
 </p>
 
-<h2 align="center">
-  Education
-</h2>
+<h2 align="center">Education</h2>
 
 <ul align="center">
-  <li<b>🎓 Computer Programming, A.A.S. 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/><br/>
-  <li<b>🎓 Cybersecurity, B.S. 🎓</b></a><br/><i>Wilmington University, 2026</i></li>
+  <li<b>Computer Programming, A.A.S.</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/><br/>
+  <li<b>Cybersecurity, B.S.</b></a><br/><i>Wilmington University, 2026</i></li>
 </ul>
 
-<h2 align="center">
-  Certifications
-</h2>
+<h2 align="center">Certifications</h2>
 
 <ul align="center">
   <li<b>🎓 Certified Java Programmer 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/><br/>
