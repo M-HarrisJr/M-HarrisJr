@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/>Proficient in all of the following<img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/>
+  <img src="https://slackmojis.com/emojis/37240-computer/download" width="30"/> Proficient in all of the following
 </h3>
 
 <p align="center">
