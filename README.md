@@ -65,6 +65,6 @@
 </h2>
 <ul>
   <li><a href="https://github.com/M-HarrisJr/C-Plus-Plus-File"><b>My C++ Coding Repository</b></a><br/><i>This file is a showcase of a few basic C++ codes. More information is available on the read me page.</i></li>
-  <li><a href="https://github.com/M-HarrisJr/LUA-File"><b>My LUA Coding Repository</b></a><br/><i>This file is a showcase of a few Intermediate LUA scripts. More information is available on the read me page.</i></li>
+  <li><a href="https://github.com/M-HarrisJr/LUA-File"><b>My LUA Coding Repository</b></a><br/><i>Information [FILL]</i></li>
   <li><a href="https://github.com/M-HarrisJr/Java-File"><b>Java</b></a><br/><i>Information [FILL]</i></li>
 </ul>
