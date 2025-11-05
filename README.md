@@ -35,10 +35,10 @@
 <h2 align="center">Certifications</h2>
 
 <ul align="center">
-  <li<b>🎓 Certified Java Programmer 🎓</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/><br/>
-  <li<b>🏆 Oracle Cloud Infrastructure - Multicloud Architect Professional Certification - 2025 🏆</b></a><br/><br/>
-  <li<b>🏆 Oracle Cloud Infrastructure - Developer Professional Certification 🏆</b></a><br/><br/>
-  <li<b>🏆 ISC2 Cybersecurity Certification 🏆</b></a>
+  <li<b>🏆 Certified Java Programmer 🏆</b></a><br/><i>Gwinnett Technical College - 2022</i></li><br/><br/>
+  <li<b>🏆 Multicloud Architect Professional 🏆</b></a><br/><i>Oracle Cloud Infrastructure - October 2025-2027</i></li><br/><br/>
+  <li<b>🏆 Developer Professional 🏆</b></a><br/><i>Oracle Cloud Infrastructure - October 2025-2027</i></li><br/><br/>
+  <li<b>🏆 Cybersecurity Certification 🏆</b></a><br/><i>ISC2 - July 2025</i></li><br/><br/>
 </ul>
 
 <h2 align="center">
