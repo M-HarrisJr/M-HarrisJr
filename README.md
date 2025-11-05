@@ -41,9 +41,7 @@
   <li<b>🏆 Cybersecurity Certification 🏆</b></a><br/><i>ISC2 - July 2025</i></li><br/><br/>
 </ul>
 
-<h2 align="center">
-  About me
-</h2>
+<h2 align="center">About me</h2>
 
 <ul>
   <li> Currently Pursuing:
