@@ -39,6 +39,9 @@
   <li<b>🏆 Multicloud Architect Professional 🏆</b></a><br/><i>Oracle Cloud Infrastructure - October 2025-2027</i></li><br/><br/>
   <li<b>🏆 Developer Professional 🏆</b></a><br/><i>Oracle Cloud Infrastructure - October 2025-2027</i></li><br/><br/>
   <li<b>🏆 Cybersecurity Certification 🏆</b></a><br/><i>ISC2 - July 2025</i></li><br/><br/>
+  <li<b>🏆 Developer Associate Certification 🏆</b></a><br/><i>AWS - Scheduled January 2026</i></li><br/><br/>
+  <li<b>🏆 Solutions Architect Associate Certification 🏆</b></a><br/><i>AWS - Scheduled January 2026</i></li><br/><br/>
+  <li<b>🏆 Azure Fundamentals Certification 🏆</b></a><br/><i>Microsoft - Scheduled January 2026</i></li><br/><br/>
 </ul>
 
 <h2 align="center">About me</h2>
