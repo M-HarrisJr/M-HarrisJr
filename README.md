@@ -70,7 +70,17 @@ while continuously improving technical depth. The certifications and degrees I a
   <li>📫 Email: MHARRISJR01@GMAIL.COM
   <li><a href="https://www.linkedin.com/in/michael-harris-a8a6981b7/"><b>📘 My LinkedIn Page</b></a></li>
 </ul>
-
+<h2 align="center">Technical Skills</h2>
+<ul>
+  <li> Cloud Platforms:
+    <ul>
+      <li>Oracle Cloud Infrastructed</li>
+      <li>Amazon Web Services</li>
+      <li>Microsoft Azure</li>
+      <li>Google Cloud Platform</li>
+    </ul>
+  </li>
+</ul>
 <h2 align="center">
   Projects / Repositories
 </h2>
