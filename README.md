@@ -72,10 +72,10 @@ while continuously improving technical depth. The certifications and degrees I a
 </ul>
 
 <h2 align="center">
-  My Current Repository Coding Practice Showcases
+  Projects / Repositories
 </h2>
 <ul>
-  <li><a href="https://github.com/M-HarrisJr/C-Plus-Plus-File"><b>My C++ Coding Repository</b></a><br/><i>This file is a showcase of a few basic C++ codes. More information is available on the read me page.</i></li>
+  <li><a href="https://github.com/M-HarrisJr/C-Plus-Plus-File"><b>My C++ Coding Repository</b></a><br/><i>Information [FILL]</i></li>
   <li><a href="https://github.com/M-HarrisJr/LUA-File"><b>My LUA Coding Repository</b></a><br/><i>Information [FILL]</i></li>
   <li><a href="https://github.com/M-HarrisJr/Java-File"><b>Java</b></a><br/><i>Information [FILL]</i></li>
   <li><a href=""><b>Cloud Projects</b></a><br/><i>Information [FILL]</i></li>
