@@ -45,7 +45,13 @@
 </ul>
 
 <h2 align="center">About me</h2>
-
+<p align="center">I'm a motivated Cloud & Software Engineer currently holding the OCI
+Multicloud Architect Professional and OCI Developer, combined with experience deploying
+serverless applications, building backend APIs, and working with cloud
+services across OCI and AWS. Background in technical support and IT
+troubleshooting with strong communication and problem-solving skills. I graduated from Gwinnett Technical College with a 3.6 GPA, earning my Associate's Degree in Computer Programming. I currently also hold an ISC2 Cybersecurity Certification. Traits that define me are, highly
+adaptable, fast-learning, and driven to build production-ready cloud systems
+while continuously improving technical depth. The certifications and degrees I am currently pursuing are below.</p>
 <ul>
   <li> Currently Pursuing:
     <ul>
@@ -54,11 +60,13 @@
       <li>AWS DevOps</li>
       <li>Cybersecurity B.A.</li>
       <li>ISC2 CISSP</li>
+      <li>RedHat Certified System Administrator</li>
+      <li>CompTIA Sec+</li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>I'm currently building cloud based projects and pursuing cloud engineering roles.
+  <li>I'm currently building cloud based projects and pursuing cloud engineering roles. My repositories are linked below.
   <li>📫 Email: MHARRISJR01@GMAIL.COM
   <li><a href="https://www.linkedin.com/in/michael-harris-a8a6981b7/"><b>📘 My LinkedIn Page</b></a></li>
 </ul>
@@ -70,4 +78,5 @@
   <li><a href="https://github.com/M-HarrisJr/C-Plus-Plus-File"><b>My C++ Coding Repository</b></a><br/><i>This file is a showcase of a few basic C++ codes. More information is available on the read me page.</i></li>
   <li><a href="https://github.com/M-HarrisJr/LUA-File"><b>My LUA Coding Repository</b></a><br/><i>Information [FILL]</i></li>
   <li><a href="https://github.com/M-HarrisJr/Java-File"><b>Java</b></a><br/><i>Information [FILL]</i></li>
+  <li><a href=""><b>Cloud Projects</b></a><br/><i>Information [FILL]</i></li>
 </ul>
