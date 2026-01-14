@@ -89,7 +89,7 @@ while continuously improving technical depth. The certifications and degrees I a
 <ul>
   <li><a href="https://github.com/M-HarrisJr/C-Plus-Plus-File"><b>My C++ Coding Repository</b></a><br/><i>Information [FILL]</i></li>
   <li><a href="https://github.com/M-HarrisJr/LUA-File"><b>My LUA Coding Repository</b></a><br/><i>Information [FILL]</i></li>
-  <li><a href="https://github.com/M-HarrisJr/Java-File"><b>Java</b></a><br/><i>Information [FILL]</i></li>
+  <li><a href="https://github.com/M-HarrisJr/Java-File"><b>Java Coding Repository</b></a><br/><i>Information [FILL]</i></li>
   <li><a href="https://github.com/M-HarrisJr/aws-inventory-microservice"><b>AWS Cloud Projects</b></a><br/><i>Information [FILL]</i></li>
   <li><a href="https://github.com/M-HarrisJr/oci-serverless-image-pipeline"><b>OCI Cloud Projects</b></a><br/><i>Information [FILL]</i></li>
 </ul>
