@@ -39,8 +39,9 @@
   <li<b>🏆 Multicloud Architect Professional 🏆</b></a><br/><i>Oracle Cloud Infrastructure - October 2025-2027</i></li><br/><br/>
   <li<b>🏆 Developer Professional 🏆</b></a><br/><i>Oracle Cloud Infrastructure - October 2025-2027</i></li><br/><br/>
   <li<b>🏆 Cybersecurity Certification 🏆</b></a><br/><i>ISC2 - July 2025</i></li><br/><br/>
-  <li<b>🏆 Developer Associate Certification 🏆</b></a><br/><i>AWS - Scheduled January 2026</i></li><br/><br/>
   <li<b>🏆 Solutions Architect Associate Certification 🏆</b></a><br/><i>AWS - Scheduled January 2026</i></li><br/><br/>
+  <li<b>🏆 Data Engineer Associate Certification 🏆</b></a><br/><i>AWS - Scheduled January 2026</i></li><br/><br/>
+  <li<b>🏆 Developer Associate Certification 🏆</b></a><br/><i>AWS - Scheduled February 2026</i></li><br/><br/
   <li<b>🏆 Azure Fundamentals Certification (AZ-900) 🏆</b></a><br/><i>Microsoft - Scheduled January 2026</i></li><br/><br/>
 </ul>
 
@@ -56,6 +57,7 @@ while continuously improving technical depth. The certifications and degrees I a
   <li> Currently Pursuing:
     <ul>
       <li>AWS SAAS Certification</li>
+      <li>AWS Data Engineer</li>
       <li>AWS Developer</li>
       <li>AWS DevOps</li>
       <li>Cybersecurity B.A.</li>
