@@ -76,8 +76,8 @@ while continuously improving technical depth. The certifications and degrees I a
 <ul>
   <li> Cloud Platforms:
     <ul>
-      <li>Oracle Cloud Infrastructed</li>
       <li>Amazon Web Services</li>
+      <li>Oracle Cloud Infrastructure</li>
       <li>Microsoft Azure</li>
       <li>Google Cloud Platform</li>
     </ul>
