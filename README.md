@@ -54,12 +54,12 @@ troubleshooting with strong communication and problem-solving skills. I graduate
 adaptable, fast-learning, and driven to build production-ready cloud systems
 while continuously improving technical depth. The certifications and degrees I am currently pursuing are below.</p>
 <ul>
-  <li> Currently Pursuing:
+  <li> My current road map:
     <ul>
-      <li>AWS SAAS Certification</li>
-      <li>AWS Data Engineer</li>
-      <li>AWS Developer</li>
-      <li>AWS DevOps</li>
+      <li>AWS Solutions Architect Associate</li>
+      <li>AWS Data Engineer Associate</li>
+      <li>AWS Developer Associate</li>
+      <li>AWS DevOps Professional</li>
       <li>Cybersecurity B.A.</li>
       <li>ISC2 CISSP</li>
       <li>RedHat Certified System Administrator</li>
