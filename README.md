@@ -29,7 +29,7 @@
 
 <ul align="center">
   <li<b>Computer Programming, A.A.S.</b></a><br/><i>Gwinnett Technical College, 2022</i></li><br/><br/>
-  <li<b>Cybersecurity, B.S.</b></a><br/><i>Wilmington University, 2026</i></li>
+  <li<b>Cybersecurity, B.S.</b></a><br/><i>Wilmington University, 2027</i></li>
 </ul>
 
 <h2 align="center">Certifications</h2>
@@ -46,10 +46,10 @@
 </ul>
 
 <h2 align="center">About me</h2>
-<p align="center">I'm a motivated Cloud & Software Engineer currently holding the OCI
-Multicloud Architect Professional and OCI Developer, combined with experience deploying
+<p align="center">I'm a motivated Cloud/Software/Data Engineer currently holding the AWS Data Engineering Associate, OCI
+Multicloud Architect Professional, OCI Developer Professional, and the Azure Fundamentals Certification, combined with experience deploying
 serverless applications, building backend APIs, and working with cloud
-services across OCI and AWS. Background in technical support and IT
+services across AWS, OCI, & Azure. Background in technical support and IT
 troubleshooting with strong communication and problem-solving skills. I graduated from Gwinnett Technical College with a 3.6 GPA, earning my Associate's Degree in Computer Programming. I currently also hold an ISC2 Cybersecurity Certification. Traits that define me are, highly
 adaptable, fast-learning, and driven to build production-ready cloud systems
 while continuously improving technical depth. The certifications and degrees I am currently pursuing are below.</p>
