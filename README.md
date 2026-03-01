@@ -36,7 +36,7 @@
 
 <ul align="center">
   <li<b>🏆 Certified Java Programmer 🏆</b></a><br/><i>Gwinnett Technical College - 2022</i></li><br/><br/>
-  <li<b>🏆 Data Engineer Associate Certification 🏆</b></a><br/><i>AWS - February 2026</i></li><br/><br/>
+  <li<b>🏆 Data Engineer Associate Certification 🏆</b></a><br/><i>AWS - March 2026</i></li><br/><br/>
   <li<b>🏆 Multicloud Architect Professional 🏆</b></a><br/><i>Oracle Cloud Infrastructure - October 2025-2027</i></li><br/><br/>
   <li<b>🏆 Developer Professional 🏆</b></a><br/><i>Oracle Cloud Infrastructure - October 2025-2027</i></li><br/><br/>
   <li<b>🏆 Cybersecurity Certification 🏆</b></a><br/><i>ISC2 - July 2025</i></li><br/><br/>
@@ -57,7 +57,6 @@ while continuously improving technical depth. The certifications and degrees I a
   <li> My current road map:
     <ul>
       <li>AWS Solutions Architect Associate</li>
-      <li>AWS Data Engineer Associate</li>
       <li>AWS Developer Associate</li>
       <li>AWS DevOps Professional</li>
       <li>Cybersecurity B.A.</li>
